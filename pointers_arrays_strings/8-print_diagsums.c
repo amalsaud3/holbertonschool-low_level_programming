@@ -1,7 +1,8 @@
+
 #include "main.h"
 
 /**
- * print_uint int - Prints an unsigned int integer
+ * print_uint - Prints an unsigned int integer
  * @n: Number to print
  */
 static void print_uint(unsigned int n)
